@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<current>
+    <city id="524901" name="Москва">
+        <coord lon="37.6173" lat="55.7558"></coord>
+        <country>RU</country>
+        <timezone>10800</timezone>
+        <sun rise="2023-02-13T04:59:58" set="2023-02-13T14:27:44"></sun>
+    </city>
+    <temperature value="-3.05" min="-4.25" max="-2.7" unit="celsius"></temperature>
+    <feels_like value="-8.14" unit="celsius"></feels_like>
+    <humidity value="96" unit="%"></humidity>
+    <pressure value="1012" unit="hPa"></pressure>
+    <wind>
+        <speed value="4.14" unit="m/s" name="Gentle Breeze"></speed>
+        <gusts value="10.96"></gusts>
+        <direction value="261" code="W" name="West"></direction>
+    </wind>
+    <clouds value="100" name="пасмурно"></clouds>
+    <visibility value="672"></visibility>
+    <precipitation mode="no"></precipitation>
+    <weather number="600" value="небольшой снег" icon="13d"></weather>
+    <lastupdate value="2023-02-13T09:14:05"></lastupdate>
+</current>

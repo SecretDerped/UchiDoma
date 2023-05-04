@@ -1,0 +1,216 @@
+{
+  "id": 150,
+  "title": "american revolution",
+  "clues": [
+    {
+      "id": 3725,
+      "answer": "Paul Revere",
+      "question": "âThe regulars are out!â he warned Hancock \u0026 Adams on April 18, 1775",
+      "value": 100,
+      "airdate": "1985-11-14T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 3061,
+      "invalid_count": null
+    },
+    {
+      "id": 3731,
+      "answer": "George Washington",
+      "question": "General Howe faced him in Brandywine, Germantown, \u0026 Long Island battles",
+      "value": 200,
+      "airdate": "1985-11-14T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 3061,
+      "invalid_count": null
+    },
+    {
+      "id": 3737,
+      "answer": "West Point",
+      "question": "Now site of a military academy, Benedict Arnold plotted to turn over its fort to the British",
+      "value": 300,
+      "airdate": "1985-11-14T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 3061,
+      "invalid_count": null
+    },
+    {
+      "id": 3743,
+      "answer": "France",
+      "question": "Helping us fight bankrupted this country \u0026 sent it into internal revolution",
+      "value": 400,
+      "airdate": "1985-11-14T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 3061,
+      "invalid_count": null
+    },
+    {
+      "id": 3749,
+      "answer": "Faneuil Hall",
+      "question": "This building marked by a grasshopper weather vane, gained nickname âThe cradle of libertyâ",
+      "value": 500,
+      "airdate": "1985-11-14T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 3061,
+      "invalid_count": null
+    },
+    {
+      "id": 15661,
+      "answer": "tea",
+      "question": "New Jerseyites disguised as Indians burned this, unlike the Bostonians who dumped it in the harbor",
+      "value": 100,
+      "airdate": "1989-01-20T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 4939,
+      "invalid_count": null
+    },
+    {
+      "id": 15667,
+      "answer": "France",
+      "question": "By the time this country fought in our revolution, it was already at war with Britain",
+      "value": 200,
+      "airdate": "1989-01-20T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 4939,
+      "invalid_count": null
+    },
+    {
+      "id": 15673,
+      "answer": "George Washington",
+      "question": "He was the losing general in the Battles of Long Island \u0026 White Plains",
+      "value": 300,
+      "airdate": "1989-01-20T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 4939,
+      "invalid_count": null
+    },
+    {
+      "id": 15679,
+      "answer": "Ticonderoga",
+      "question": "The 1st American act of aggression was the capture of this fort by 100 of Ethan Allen's \"Boys\"",
+      "value": 400,
+      "airdate": "1989-01-20T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 4939,
+      "invalid_count": null
+    },
+    {
+      "id": 15685,
+      "answer": "West Point",
+      "question": "The military post which Benedict Arnold planned to betray to the British",
+      "value": 500,
+      "airdate": "1989-01-20T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 4939,
+      "invalid_count": null
+    },
+    {
+      "id": 23811,
+      "answer": "Bunker Hill/Breeds Hill",
+      "question": "Our side was winning the battle of this hill near Boston until we ran out of ammo and the tide turned",
+      "value": 100,
+      "airdate": "1991-05-15T19:00:00.000Z",
+      "category_id": 150,
+      "game_id": 263,
+      "invalid_count": null
+    },
+    {
+      "id": 23817,
+      "answer": "Quebec",
+      "question": "The battle that was fought the farthest north was the one at this Canadian city, December 31, 1775",
+      "value": 200,
+      "airdate": "1991-05-15T19:00:00.000Z",
+      "category_id": 150,
+      "game_id": 263,
+      "invalid_count": null
+    },
+    {
+      "id": 23823,
+      "answer": "Casimir Pulaski",
+      "question": "While Kosciusko survived the war, this Polish count was mortally wounded at Savannah",
+      "value": 300,
+      "airdate": "1991-05-15T19:00:00.000Z",
+      "category_id": 150,
+      "game_id": 263,
+      "invalid_count": null
+    },
+    {
+      "id": 23829,
+      "answer": "Anthony Wayne",
+      "question": "The Americans had to evacuate Philadelphia after his defeat at Paoli, which must have made him \"mad\"",
+      "value": 400,
+      "airdate": "1991-05-15T19:00:00.000Z",
+      "category_id": 150,
+      "game_id": 263,
+      "invalid_count": null
+    },
+    {
+      "id": 23835,
+      "answer": "Saratoga",
+      "question": "France entered the war on our side after this 1777 American victory in New York State",
+      "value": 500,
+      "airdate": "1991-05-15T19:00:00.000Z",
+      "category_id": 150,
+      "game_id": 263,
+      "invalid_count": null
+    },
+    {
+      "id": 46300,
+      "answer": "Declaration of Independence",
+      "question": "Ben Franklin was 70 years old when he signed this document in 1776",
+      "value": 100,
+      "airdate": "1997-04-28T19:00:00.000Z",
+      "category_id": 150,
+      "game_id": 3020,
+      "invalid_count": null
+    },
+    {
+      "id": 715,
+      "answer": "the Redcoats",
+      "question": "Nickname of the British from the color of their clothing",
+      "value": 100,
+      "airdate": "1984-12-13T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 6816,
+      "invalid_count": null
+    },
+    {
+      "id": 720,
+      "answer": "the drum",
+      "question": "In the painting \"The Spirit of '76\", what the man in the middle is playing",
+      "value": 50,
+      "airdate": "1984-12-13T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 6816,
+      "invalid_count": null
+    },
+    {
+      "id": 725,
+      "answer": "\"Yankee Doodle\"",
+      "question": "1768 American war tune which was set to a 1500s melody",
+      "value": 300,
+      "airdate": "1984-12-13T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 6816,
+      "invalid_count": null
+    },
+    {
+      "id": 730,
+      "answer": "Cornwallis",
+      "question": "Brigadier Gen. O'Hara went through the final surrender in place of this English commander",
+      "value": 400,
+      "airdate": "1984-12-13T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 6816,
+      "invalid_count": null
+    },
+    {
+      "id": 734,
+      "answer": "France \u0026 Spain",
+      "question": "The 2 foreign countries which fought on our side",
+      "value": 500,
+      "airdate": "1984-12-13T20:00:00.000Z",
+      "category_id": 150,
+      "game_id": 6816,
+      "invalid_count": null
+    }
+  ]
+}
