@@ -2,7 +2,8 @@ import requests
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = 'TOKEN'
+TOKEN = '5803675179:AAHtgKLhtwZC4caauw7aa3ilvDtgCd7v1J4'
+
 URL = 'https://cataas.com/cat'
 
 bot = telebot.TeleBot(TOKEN)
