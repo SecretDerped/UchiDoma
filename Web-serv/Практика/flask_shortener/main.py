@@ -11,12 +11,11 @@ from wtforms.validators import DataRequired, URL
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///urls.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-app.config['SECRET_KEY'] = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+app.config['SECRET_KEY'] = 'SECRET_KEY'
 
 db = SQLAlchemy(app)
 
 SHORT_LEN = 6
-
 
 class URLmodel(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -28,13 +27,12 @@ class URLmodel(db.Model):
 
 class URLForm(FlaskForm):
     original_url = StringField('Вставьте ссылку',
-                               validators=[DataRequired(message='Ссылка не может быть пустой'),
-                                           URL(message='Неверная ссылка')])
+                           validators=[DataRequired(message='Ссылка не может быть пустой'),
+                                       URL(message='Неверная ссылка')])
     submit = SubmitField('Получить короткую ссылку')
 
 
-with app.app_context():
-    db.create_all()
+db.create_all()
 
 
 def get_short():
